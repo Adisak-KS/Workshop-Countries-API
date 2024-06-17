@@ -36,4 +36,4 @@ ___
 
 ### 💻 ตัวอย่างเว็บไซต์
 
-![index]()
+![index](https://github.com/Adisak-KS/Workshop-Countries-API/blob/main/previews/pre-1.png)
